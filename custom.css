@@ -1,0 +1,10 @@
+.my-jumbotron-background{
+    background-image: url("http://www.antarctica.gov.au/__data/assets/image/0019/104437/varieties/antarctic.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.my-jumbotron-background-play{
+    background-image: url("https://www.blogcdn.com/www.joystiq.com/media/2010/03/sherlock3210.jpg");
+    background-size: cover;
+    background-position: center;
+}
